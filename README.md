@@ -27,6 +27,11 @@ Here’s an overview of my **completed assignments and projects**:
 | 4     | Memory & Pointers          | ✅ Done | [Week 4](./Week4) |
 | 5     | Data Structures            | ✅ Done | [Week 5](./Week5)|
 | 6     | Python Programming         | ⏳ Pending |  |
+| 7     | Artificial Intellignece    |            |
+| 8     | SQL                        |   |
+| 9     | HTML, CSS, JavaScript      |   |
+| 10    | Flask                      |   |
+| 11    | Cybersecutity              |   |
 
 🔹 **Final Project:** *(Will be added after completion!)* 🚀  
 
