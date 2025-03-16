@@ -1,4 +1,3 @@
-# CS50-Problems
 # CS50x 2024 – Harvard's Introduction to Computer Science
 
 Welcome to my **CS50x 2024** repository! 🎓 This repository contains my solutions, projects, and notes from **Harvard's CS50 course**, covering fundamental concepts in **computer science and programming**.
@@ -25,8 +24,8 @@ Here’s an overview of my **completed assignments and projects**:
 | 1     | C Basics & Scratch         | ✅ Done | [Week 1](./Week1) |
 | 2     | Arrays & Loops             | ✅ Done | [Week 2](./Week2) |
 | 3     | Algorithms & Sorting       | ✅ Done | [Week 3](./Week3) |
-| 4     | Memory & Pointers          | 🔄 In Progress | [Week 4](./Week4) |
-| 5     | Data Structures            | ⏳ Pending |  |
+| 4     | Memory & Pointers          | ✅ Done | [Week 4](./Week4) |
+| 5     | Data Structures            | ✅ Done | [Week 5](./Week5)|
 | 6     | Python Programming         | ⏳ Pending |  |
 
 🔹 **Final Project:** *(Will be added after completion!)* 🚀  
